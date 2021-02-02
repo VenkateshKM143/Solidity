@@ -1,0 +1,18 @@
+pragma solidity ^0.8.0;
+
+contract Calculator{
+    int public integer=0;
+    
+    function add(int i,int j) public{
+        integer=i+j;
+    }
+    function sub(int i,int j) public{
+        integer=i-j;
+    }
+    function mul(int i,int j)public{
+        integer=i*j;
+    }
+    function div(int i,int j) public{
+        integer=i/j;
+    }
+}
