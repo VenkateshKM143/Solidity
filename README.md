@@ -1,2 +1,2 @@
 # Solidity
-Calculator-First Progrme in Solidity 
+Calculator-First Program in Solidity 
